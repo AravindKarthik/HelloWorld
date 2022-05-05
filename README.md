@@ -10,5 +10,9 @@ This is a simple python script file that displays hello world when run. This cod
 
 `'echo 'print("Hello World!")' > helloworld.py'`
 
+`less helloworld.py`
+
+`explorer .`
+
 
 
